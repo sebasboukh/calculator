@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+# Output directory for Visual Studio
+**/.vs/*
+**/PrecompiledWeb/*
+**/Publish/*
+**/obj/*
+**/bin/*
+
+# Ignored extensions
+*.metaproj
+*.suo
+*.tmp
+*.user
+*.pdb
+
+# Nuget packages
+**/packages/*
